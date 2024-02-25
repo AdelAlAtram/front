@@ -3,6 +3,13 @@ nav {
   height: 80px;
   width: 100%;
 }
+img.logo {
+  width: 200px;
+  height: 180px;
+  position: relative;
+  top: -50px;
+}
+
 label.navbar-container {
   color: white;
   font-size: 35px;
