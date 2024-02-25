@@ -2,7 +2,7 @@ import React from "react";
 import { CiCircleList } from "react-icons/ci";
 import "./navbar.css";
 // import Logo from "../imges/Logo";
-import Logo from "../../../front/imges/Logo.png"
+import Logo from "../../imges/Logo.png"
 const NavBar = () => {
   <script
     src="https://kit.fontawesome.com/a076d05399.js"
