@@ -5,9 +5,8 @@ nav {
 }
 img.logo {
   width: 200px;
-  height: 180px;
   position: relative;
-  top: -50px;
+  top: -53px;
 }
 
 label.navbar-container {
@@ -94,5 +93,8 @@ a:hover {
   }
   #check:checked ~ ul {
     left: 0;
+  }
+  img.logo {
+    display: none;
   }
 }
