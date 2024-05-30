@@ -11,11 +11,27 @@
 .h1 .email{
   font-size: 25px;
 }
+.h1 .email2{
+  font-size: 25px;
+  color: #0082e6;
+}
 
 
 @media (max-width: 952px) {
-  label.navbar-container {
+  .h1 {
     font-size: 30px;
-    padding-left: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    justify-content: center;
   }
+  .h1 .span{
+    font-size:20px;
+  }
+  .h1 .email{
+    font-size: 17px;
+  }
+  .h1 .email2{
+   display: none;
+  }
+
 }

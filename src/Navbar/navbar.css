@@ -55,6 +55,7 @@ a:hover {
   display: none;
 }
 
+
 @media (max-width: 952px) {
   label.navbar-container {
     font-size: 30px;
@@ -95,6 +96,11 @@ a:hover {
     left: 0;
   }
   img.logo {
+    width:180px;
+    position: relative;
+    top: -125px;
+  }
+  h6{
     display: none;
   }
 }
