@@ -3,10 +3,12 @@ nav {
   height: 80px;
   width: 100%;
 }
+.webname {
+  font-size: 25px;
+}
 img.logo {
-  width: 200px;
+  width: 100px;
   position: relative;
-  top: -53px;
 }
 
 label.navbar-container {
@@ -55,7 +57,6 @@ a:hover {
   display: none;
 }
 
-
 @media (max-width: 952px) {
   label.navbar-container {
     font-size: 30px;
@@ -96,11 +97,14 @@ a:hover {
     left: 0;
   }
   img.logo {
-    width:180px;
+    width: 90px;
     position: relative;
-    top: -125px;
+    top: 5px;
   }
-  h6{
+  h6 {
+    display: none;
+  }
+  .webname {
     display: none;
   }
 }

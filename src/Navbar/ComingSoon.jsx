@@ -12,7 +12,7 @@ const ComingSoon = () => {
         The page is under development <br />{" "}
         <span className="span">For more information contact us on</span> <br />{" "}
         <FontAwesomeIcon icon={faEnvelope} className="email2" />{" "}
-        <span className="email">gassan@accounting_academy_research.com</span>{" "}
+        <span className="email">info@accounting_academy_research.com</span>{" "}
       </h2>
     </>
   );

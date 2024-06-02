@@ -17,6 +17,7 @@ const NavBar = () => {
       <label className="navbar-container">
         {" "}
         <img src={Logo} alt="Logo" className="logo" />{" "}
+        <span className="webname">ACCOUNTING ACADEMIC RESEARCH</span>
       </label>
       <ul>
         <li>
